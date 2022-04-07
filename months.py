@@ -12,15 +12,31 @@ def monthString(monthNum):
      """
      
      monthString = ""
-
-     ###################################
-     ### FILL IN YOUR CODE HERE      ###
-     ### Other than your name above, ###
-     ### this is the only section    ###
-     ### you change in this program. ###
-     ###################################
-
-     return(monthString)
+     monthString(1)
+     return (" January")
+     monthString(2)
+     return(" February)
+     monthString(3)
+     return("March")
+     monthString(4)
+     return("April")
+     montgString(5)
+     return("May")
+     monthString(6)
+     return(" June")
+     monthString(7)
+     return("July")
+     monthString(8)
+     return("August")
+     monthString(9) 
+     return("September)
+     monthString(10)
+     return("October")
+     monthString(11)
+     return("Novemebr")
+     mothString(12)
+     return("December")
+            
 
 
 
